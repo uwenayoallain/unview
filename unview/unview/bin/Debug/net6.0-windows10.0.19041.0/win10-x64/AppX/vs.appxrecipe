@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\uwena\source\repos\unview\unview\unview\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-05-16T07:53:39.993</Modified>
+      <Modified>2022-05-16T12:11:40.281</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\uwena\source\repos\unview\unview\unview\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-05-16T07:53:39.429</Modified>
+      <Modified>2022-05-16T09:34:56.033</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uwena\source\repos\unview\unview\unview\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\unview.runtimeconfig.json">
       <PackagePath>unview.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uwena\source\repos\unview\unview\unview\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\unview.dll">
       <PackagePath>unview.dll</PackagePath>
-      <Modified>2022-05-16T07:53:38.299</Modified>
+      <Modified>2022-05-16T12:11:39.337</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uwena\source\repos\unview\unview\unview\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>unview.exe</PackagePath>
-      <Modified>2022-05-16T07:53:38.306</Modified>
+      <Modified>2022-05-16T12:11:39.342</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uwena\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1119,7 +1119,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uwena\source\repos\unview\unview\unview\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unview.deps.json">
       <PackagePath>unview.deps.json</PackagePath>
-      <Modified>2022-05-16T07:53:39.878</Modified>
+      <Modified>2022-05-16T12:11:40.155</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uwena\.nuget\packages\microsoft.aspnetcore.components.webview.maui\6.0.300-rc.3.5667\lib\net6.0-windows10.0.19041\Microsoft.AspNetCore.Components.WebView.Maui.pri">
       <PackagePath>Microsoft.AspNetCore.Components.WebView.Maui.pri</PackagePath>
@@ -1159,7 +1159,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uwena\source\repos\unview\unview\unview\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
-      <Modified>2022-05-16T07:49:42.128</Modified>
+      <Modified>2022-05-16T12:09:11.383</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uwena\source\repos\unview\unview\unview\wwwroot\favicon.ico">
       <PackagePath>wwwroot\favicon.ico</PackagePath>
@@ -1167,7 +1167,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uwena\source\repos\unview\unview\unview\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
-      <Modified>2022-05-16T07:46:46.417</Modified>
+      <Modified>2022-05-16T08:21:08.292</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uwena\source\repos\unview\unview\unview\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
       <PackagePath>appiconfgSplashScreen.scale-100.png</PackagePath>
